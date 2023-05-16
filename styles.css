@@ -1,0 +1,16 @@
+body{
+    color:aliceblue;
+    background-color: lightblue;
+
+}
+
+p { 
+    font-family: 'Times New Roman', Times, serif;
+    width: 100px;
+ 
+
+}
+h1,p {
+    color: purple;
+    text-align: center;
+}
